@@ -1,0 +1,41 @@
+
+
+"MOVIES"
+
+"************"
+
+[{"Title of the movie: ":"Big","Year the movie came out: ":"1988","IMDB Rating of the movie: ":"7.3","Rotten Tomatoes Rating of the movie: ":"N/A","Country where the movie was produced: ":"USA","Language of the movie: ":"English","Plot of the movie: ":"A young boy (David Moscow) makes a wish at a carnival machine to be big. He wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman. What will he find out about this strange world?","Actors in the movie: ":"Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard","Rotton Tomatoes URL: ":"http://www.rottentomatoes.com/m/big/"}]
+
+"************"
+
+"MOVIES"
+
+"************"
+
+[{"Title of the movie: ":"Die","Year the movie came out: ":"2010","IMDB Rating of the movie: ":"4.9","Rotten Tomatoes Rating of the movie: ":"N/A","Country where the movie was produced: ":"Canada, Italy","Language of the movie: ":"English","Plot of the movie: ":"Lisa, a gambler who lives for the cards. Robert, a millionaire philanthropist, Mark (Elias Koteas), a cop reaching the end of a gruesome career. Zach, a brilliant psychiatrist. Melody, a teenager battling drug addictions. Diane, a caring nurse whose patients are the only life surrounding her. What do these six people have in common? Something connects them all - each of them is on the road to self-destruction, each is truly lost. And then, something happens: they all wake up in cells in a surreal facility, without knowing how they got there or why. Are they in denial? Are they crazy? What happened? They soon discover they are not alone, when the mysterious Jacob (Pyper-Ferguson) forces them into a disturbing experiment, during which the unwilling participants come to face disturbing truths about themselves and decide each others fate in a nerve racking game of dice.","Actors in the movie: ":"John Pyper-Ferguson, Emily Hampshire, Caterina Murino, Elias Koteas","Rotton Tomatoes URL: ":"N/A"}]
+
+"************"
+
+"MOVIES"
+
+"************"
+
+[{"Title of the movie: ":"Big","Year the movie came out: ":"1988","IMDB Rating of the movie: ":"7.3","Rotten Tomatoes Rating of the movie: ":"N/A","Country where the movie was produced: ":"USA","Language of the movie: ":"English","Plot of the movie: ":"A young boy (David Moscow) makes a wish at a carnival machine to be big. He wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman. What will he find out about this strange world?","Actors in the movie: ":"Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard","Rotton Tomatoes URL: ":"http://www.rottentomatoes.com/m/big/"}]
+
+"************"
+
+"MOVIES"
+
+"************"
+
+[{"Title of the movie: ":"Jurassic","Year the movie came out: ":"2014","IMDB Rating of the movie: ":"6.9","Rotten Tomatoes Rating of the movie: ":"N/A","Country where the movie was produced: ":"UK","Language of the movie: ":"English","Plot of the movie: ":"An uplifting and tempestuous film about jealousy, love and disappointment where an unusual friendship blossoms under surreal circumstances.","Actors in the movie: ":"Phelim Kelly, Dudley O'Shaughnessy, Indra Ové, Morgan Watkins","Rotton Tomatoes URL: ":"N/A"}]
+
+"************"
+
+"MOVIES"
+
+"************"
+
+[{"Title of the movie: ":"Big","Year the movie came out: ":"1988","IMDB Rating of the movie: ":"7.3","Rotten Tomatoes Rating of the movie: ":"N/A","Country where the movie was produced: ":"USA","Language of the movie: ":"English","Plot of the movie: ":"A young boy (David Moscow) makes a wish at a carnival machine to be big. He wakes up the following morning to find that it has been granted and his body has grown older overnight. But he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups including getting a job and having his first romantic encounter with a woman. What will he find out about this strange world?","Actors in the movie: ":"Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard","Rotton Tomatoes URL: ":"http://www.rottentomatoes.com/m/big/"}]
+
+"************"
